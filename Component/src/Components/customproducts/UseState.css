@@ -1,0 +1,16 @@
+
+
+.colorear{
+  width: 35px;
+  height: 35px;
+  border: 1px solid black;
+  margin: .1rem;
+}
+
+.pintar{
+  /* background-color: blueviolet; */
+  width: 15rem;
+  height: 15rem;
+  border: 1px solid black;
+  margin: 15px 0 0 100px;
+}
