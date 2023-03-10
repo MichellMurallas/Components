@@ -11,6 +11,14 @@ export const TareasConUsememo = () => {
     setTareas(tarea => [...tarea, e.target.descripcion.value])
     setTareas(tareasAcualizadas)
   }
+
+  const borrarTarea = id => {
+   //Filtrar para borrar la que no se desea:
+   let nuevasTareas = tareas.filter((tarea, indice)=> indice !== id);
+
+   //guardar el nuevo listado de tareas en el listado:
+   setTareas(nuevasTareas);
+  }
   return (
     <div>
       <h1>Mis tareas</h1>
@@ -25,6 +33,7 @@ export const TareasConUsememo = () => {
             return (
               <li key={indice}>
                 {tarea}
+                <button onClick={()=>borrarTarea(indice)}>X</button>
               </li>
             )
           })
