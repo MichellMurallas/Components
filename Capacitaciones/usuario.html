@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/styles.css" />
+    <script src="js/main.js" type="module" defer></script>
+    <title>Usuario</title>
+</head>
+<body>
+
+    <div class="layout">
+        <header class="header">  
+            <h1>Usuario - Camilo Sexto</h1>
+        </header>
+
+        <!--opcciones-->
+        <nav class="nav">
+            <ul>
+                <li><a href="login/login.html">Salir</a></li>
+            </ul>
+        </nav>
+
+        <!--Contenido principal-->
+        <section id="content" class="content">
+
+            <!--aqui van las Capacitaciones-->
+            <article class="capacitacion-item">
+                <h3 class="title">INFORMACIÓN DE LA CAPACITACIÓN:</h3>
+                <p class="description">Ventas y Marketing</p>
+                <p><strong>Fecha:</strong> 20-03-2023</p>
+                <p><strong>Hora de inicio:</strong> 10:00 A.m</p>
+                <p><strong>Cantidad de cupos:</strong> 100</p>
+
+                <button class="edit" id="emergente2" ><a href="javascript:abrir()">Inscribirse</a></button>
+                <button class="emergente1" id="ventana"><a href="javascript:cerrar()">Cancelar suscripción</a></button>
+
+            </article>
+
+            <article class="capacitacion-item">
+                <h3 class="title">INFORMACIÓN DE LA CAPACITACIÓN:</h3>
+                <p class="description">Circutos electricos</p>
+                <p><strong>Fecha:</strong> 21-03-2023</p>
+                <p><strong>Hora de inicio:</strong> 10:00 A.m</p>
+                <p><strong>Cantidad de cupos:</strong> 2500</p>
+
+                <button class="edit">Editar</button>
+                                <button class="emergente1" id="ventana"><a href="javascript:cerrar()">Cancelar suscripción</a></button>
+            </article>
+            <article class="capacitacion-item">
+                <h3 class="title">INFORMACIÓN DE LA CAPACITACIÓN:</h3>
+                <p class="description">Circutos electricos</p>
+                <p><strong>Fecha:</strong> 21-03-2023</p>
+                <p><strong>Hora de inicio:</strong> 10:00 A.m</p>
+                <p><strong>Cantidad de cupos:</strong> 500</p>
+
+                <button class="edit">Editar</button>
+                                <button class="emergente1" id="ventana"><a href="javascript:cerrar()">Cancelar suscripción</a></button>
+            </article>
+            <article class="capacitacion-item">
+                <h3 class="title">INFORMACIÓN DE LA CAPACITACIÓN:</h3>
+                <p class="description">Inteligencia emocional</p>
+                <p><strong>Fecha:</strong> 22-03-2023</p>
+                <p><strong>Hora de inicio:</strong> 10:00 A.m</p>
+                <p><strong>Cantidad de cupos:</strong> 50</p>
+
+                <button class="edit">Editar</button>
+                                <button class="emergente1" id="ventana"><a href="javascript:cerrar()">Cancelar suscripción</a></button>
+            </article>
+
+
+        </section>
+
+        </aside>
+
+        <!--Pie de página-->
+        <footer class="footer">
+            &copy; Sistema de capacitaciones y cursos - <a href="https://thedot-studio.com/">THE DOT STUDIO</a>
+        </footer>
+
+    </div>
+
+     <script>
+       function abrir(){
+        document.getElementById("ventana").style.display="block"
+       }
+       if(abrir == false){
+        
+       }
+     </script>
+    
+</body>
+</html>

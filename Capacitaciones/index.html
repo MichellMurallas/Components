@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/styles.css" />
+    <script src="js/main.js" type="module" defer></script>
+    <title>Generar Capacitaciones</title>
+</head>
+<body>
+
+    <div class="layout">
+        <header class="header">  
+            <h1>Admind - Pedro Ramirez</h1>
+        </header>
+
+        <!--opcciones-->
+        <nav class="nav">
+            <ul>
+                <li><a href="login/login.html">Salir</a></li>
+            </ul>
+        </nav>
+
+        <!--Contenido principal-->
+        <section id="content" class="content">
+
+            <!--aqui van las Capacitaciones-->
+            <article class="capacitacion-item">
+                <h3 class="title">INFORMACIÓN DE LA CAPACITACIÓN:</h3>
+                <p class="description">Ventas y Marketing</p>
+                <p><strong>Fecha:</strong> 20-03-2023</p>
+                <p><strong>Hora de inicio:</strong> 10:00 A.m</p>
+                <p><strong>Hora de finalización:</strong> 10:00 P.m</p>
+                <p><strong>Cantidad de cupos:</strong> 100</p>
+
+                <button class="edit">Editar</button>
+                <button class="delete">Borrar</button>
+            </article>
+            <article class="capacitacion-item">
+                <h3 class="title">INFORMACIÓN DE LA CAPACITACIÓN:</h3>
+                <p class="description">Circutos electricos</p>
+                <p><strong>Fecha:</strong> 21-03-2023</p>
+                <p><strong>Hora de inicio:</strong> 10:00 A.m</p>
+                <p><strong>Hora de finalización:</strong> 10:00 P.m</p>
+                <p><strong>Cantidad de cupos:</strong> 2500</p>
+
+                <button class="edit">Editar</button>
+                <button class="delete">Borrar</button>
+            </article>
+            <article class="capacitacion-item">
+                <h3 class="title">INFORMACIÓN DE LA CAPACITACIÓN:</h3>
+                <p class="description">Circutos electricos</p>
+                <p><strong>Fecha:</strong> 21-03-2023</p>
+                <p><strong>Hora de inicio:</strong> 10:00 A.m</p>
+                <p><strong>Hora de finalización:</strong> 10:00 P.m</p>
+                <p><strong>Cantidad de cupos:</strong> 500</p>
+
+                <button class="edit">Editar</button>
+                <button class="delete">Borrar</button>
+            </article>
+            <article class="capacitacion-item">
+                <h3 class="title">INFORMACIÓN DE LA CAPACITACIÓN:</h3>
+                <p class="description">Inteligencia emocional</p>
+                <p><strong>Fecha:</strong> 22-03-2023</p>
+                <p><strong>Hora de inicio:</strong> 10:00 A.m</p>
+                <p><strong>Hora de finalización:</strong> 10:00 P.m</p>
+                <p><strong>Cantidad de cupos:</strong> 50</p>
+
+                <button class="edit">Editar</button>
+                <button class="delete">Borrar</button>
+            </article>
+
+
+        </section>
+
+            <div class="add">
+                <h3 class="title">Crear Capacitación</h3>
+                <form class="form_styles">
+                    <input type="text" id="title" placeholder="Capacitación de:" />
+                    <label for="">Fecha de la capacitación</label>
+                    <input type="date">
+                    <label for="">Hora de inicio</label>
+                    <input type="time" value="10:00:00">
+                    <label for="">Hora finalización</label>
+                    <input type="time"  value="22:00:00">
+                    <label for="">Cantidad de cupos</label>
+                    <input type="number">
+                    <label for="">Breve descripción</label>
+                    <textarea id="description" placeholder="Breve descripción"></textarea>
+                    <input type="submit" id="save" value="Generar" />
+                </form>
+            </div>
+        </aside>
+
+        <!--Pie de página-->
+        <footer class="footer">
+            &copy; Sistema de capacitaciones y cursos - <a href="https://thedot-studio.com/">THE DOT STUDIO</a>
+        </footer>
+
+    </div>
+
+    
+</body>
+</html>
