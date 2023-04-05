@@ -1,0 +1,45 @@
+
+.containt-header{
+  width: 100%;
+  /* background:violet; */
+  display: flex;
+  justify-content: space-between;
+}
+
+.titulo{
+  /* background: yellowgreen; */
+  
+  margin: 0 0 0 1rem;
+  padding: 0;
+}
+
+.user-header{
+  /* background: wheat; */
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+  margin-right:2rem;
+}
+
+.sear-header{
+  width: 40rem;
+  padding: .8rem;
+}
+
+.form-header{
+  display: flex;
+  background-color: white;
+}
+
+button{
+  margin-left: .3rem;
+  background: white;
+  border: none;
+}
+
+
+
+.option-user-header{
+  margin: 0;
+  padding: 0;
+}
