@@ -216,7 +216,7 @@ const Recientes = () => {
         </div>
         <div className='description-styles-recientes'>
         <p>Artista: MAIA</p>
-          <p>Album: MALA</p>
+          <p>Album: NATURAL</p>
           <p className='precio'>
             $ 14.00
           </p>

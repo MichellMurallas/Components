@@ -1,0 +1,334 @@
+[
+  [ [{"descripcion": 1}], {"las canciones":1}],
+  [
+    [
+      {
+        "artista": "The Rolling Stones",
+        "album": "Aftermath",
+        "img": "https://res.cloudinary.com/dumfolpig/image/upload/v1680747805/The_Rolling_Stones_Aftermath_fqlhsk.jpg"
+      }
+    ],
+    {
+      "cancion": 1,
+      "title": "Mothers Little Helper",
+      "time": "2:40"
+     },
+     {
+      "cancion": 2,
+      "title": "Stupid Girl",
+      "time": "2:52"
+     },
+     {
+      "cancion": 3,
+      "title": "Lady Jane",
+      "time": "3:06"
+     },
+     {
+      "cancion": 4,
+      "title": "Under My Thumb",
+      "time": "3:20"
+     },
+     {
+      "cancion": 5,
+      "title": "Doncha Bother Me",
+      "time": "2:35"
+     },
+     {
+      "cancion": 6,
+      "title": "Goin' Home",
+      "time": "11:35"
+     },
+     {
+      "cancion": 7,
+      "title": "Flight 505",
+      "time": "3:25"
+     },
+     {
+      "cancion": 8,
+      "title": "High And Dry",
+      "time": "2:52"
+     },
+     {
+      "cancion": 9,
+      "title": "Out Of Time",
+      "time": "5:15"
+     },
+     {
+      "cancion": 10,
+      "title": "It's Not Easy",
+      "time": "2:35"
+     },
+     {
+      "cancion": 11,
+      "title": "I Am Waiting",
+      "time": "3:10"
+     },
+     {
+      "cancion": 12,
+      "title": "Take It Or Leave It",
+      "time": "2:47"
+     },
+     {
+      "cancion": 13,
+      "title": "Think",
+      "time": "3:10"
+     },
+     {
+      "cancion": 14,
+      "title": "What To Do",
+      "time": "2:30"
+     }
+  ],
+  [
+    [
+    {
+      "artista": "Guns N' Roses",
+      "album": "Appetite for Destruction",
+      "img": "https://res.cloudinary.com/dumfolpig/image/upload/v1680746815/Guns_n_Roses_-_Appetite_for_Destruction_dnn2vq.jpg"
+    }
+    ],
+    {
+      "cancion": 1,
+      "title": "Welcome to the Jungle",
+      "time": "4:33"
+     },
+     {
+      "cancion": 2,
+      "title": "It's So Easy",
+      "time": "3:22"
+     },
+     {
+      "cancion": 3,
+      "title": "Nightrain",
+      "time": "4:28"
+     },
+     {
+      "cancion": 4,
+      "title": "Out ta Get Me",
+      "time": "4:23"
+     },
+     {
+      "cancion": 5,
+      "title": "Mr. Brownstone",
+      "time": "3:48"
+     },
+     {
+      "cancion": 6,
+      "title": "Paradise City",
+      "time": "6:45"
+     },
+     {
+      "cancion": 7,
+      "title": "My Michelle",
+      "time": "3:39"
+     },
+     {
+      "cancion": 8,
+      "title": "Think About You",
+      "time": "3:51"
+     },
+     {
+      "cancion": 9,
+      "title": "Sweet Child o' Mine",
+      "time": "5:56"
+     },
+     {
+      "cancion": 10,
+      "title": "You're Crazy",
+      "time": "3:17"
+     },
+     {
+      "cancion": 11,
+      "title": "Anything Goes",
+      "time": "3:26"
+     },
+     {
+      "cancion": 12,
+      "title": "Rocket Queen",
+      "time": "6:13"
+     }
+  ],
+  [
+      [
+    {
+      "artista": "Soda Stereo",
+      "album": "20 Grandes Exitos",
+      "img": "https://res.cloudinary.com/dumfolpig/image/upload/v1680720175/Soda-stereo_q6aujb.jpg"
+    }
+  ],
+  {
+  "cancion": 1,
+  "title": "Sobredosis De TV",
+  "time": "4:10"
+ },
+ {
+  "cancion": 2,
+  "title": "Dietetico",
+  "time": "3:46"
+ },
+ {
+  "cancion": 3,
+  "title": "Tratame Suavemente",
+  "time": "3:21"
+ },
+ {
+  "cancion": 4,
+  "title": "Nada Personal",
+  "time": "3:37"
+ },
+ {
+  "cancion": 5,
+  "title": "Cuando Pase El Temblor",
+  "time": "4:08"
+ },
+ {
+  "cancion": 6,
+  "title": "Estoy Azulado",
+  "time": "3:35"
+ },
+ {
+  "cancion": 7,
+  "title": "Profugos",
+  "time": "5:15"
+ },
+ {
+  "cancion": 8,
+  "title": "Persiana Americana",
+  "time": "4:50"
+ },
+ {
+  "cancion": 9,
+  "title": "Signos",
+  "time": "5:12"
+ },
+ {
+  "cancion": 10,
+  "title": "Vita-Set: Te Hacen Falta Vitaminas - ¿Por Que No Puedo Ser Del Jet Set?",
+  "time": "4:26"
+ },
+ {
+  "cancion": 11,
+  "title": "Picnic En El 4º B",
+  "time": "3:43"
+ },
+ {
+  "cancion": 12,
+  "title": "En La Ciudad De La Furia",
+  "time": "5:51"
+ },
+ {
+  "cancion": 13,
+  "title": "Lo Que Sangra (La Cupula)",
+  "time": "4:35"
+ },
+ {
+  "cancion": 14,
+  "title": "Mundo De Quimeras",
+  "time": "6:53"
+ },
+ {
+  "cancion": 15,
+  "title": "Un Millon De Años Luz",
+  "time": "5:03"
+ },
+ {
+  "cancion": 16,
+  "title": "De Musica Ligera",
+  "time": "3:32"
+ },
+ {
+  "cancion": 17,
+  "title": "Cae El Sol",
+  "time": "4:24"
+ },
+ {
+  "cancion": 18,
+  "title": "Hombre Al Agua",
+  "time": "6:38"
+ },
+ {
+  "cancion": 19,
+  "title": "No Necesito Verte (Para Saberlo)",
+  "time": "6:18"
+ },
+ {
+  "cancion": 20,
+  "title": "Primavera 0",
+  "time": "3:36"
+ }
+
+  ],
+  [
+  [
+    {
+      "artista": "Kiss",
+      "album": "Dynasty",
+      "img": "https://res.cloudinary.com/dumfolpig/image/upload/v1680720275/Kiss_fifjmn.jpg"
+    }
+  ],
+ {
+  "cancion": 1,
+  "title": "I Was Made for Lovin' You",
+  "Writer(s)": "Paul Stanley, Vini Poncia, Desmond Child",
+  "Lead vocals": "Stanley",
+  "time": "4:30"
+ },
+ {
+  "cancion": 2,
+  "title": "2,000 Man",
+  "Writer(s)": "Mick Jagger, Keith Richards",
+  "Lead vocals": "Ace Frehley",
+  "time": "4:54"
+ },
+ {
+  "cancion": 3,
+  "title": "Sure Know Something",
+  "Writer(s)": "Stanley, Poncia",
+  "Lead vocals": "Stanley",
+  "time": "4:00"
+ },
+ {
+  "cancion": 4,
+  "title": "Dirty Livin",
+  "Writer(s)": "Peter Criss, Stan Penridge",
+  "Lead vocals": "Criss",
+  "time": "4:27"
+ },
+ {
+  "cancion": 5,
+  "title": "Charisma",
+  "Writer(s)": "Gene Simmons, Howard Marks",
+  "Lead vocals": "Simmons",
+  "time": "4:25"
+ },
+ {
+  "cancion": 6,
+  "title": "Magic Touch",
+  "Writer(s)": "Stanley",
+  "Lead vocals": "Stanley",
+  "time": "4:41"
+ },
+ {
+  "cancion": 7,
+  "title": "\"Hard Times\"",
+  "Writer(s)": "Frehley",
+  "Lead vocals": "Frehley",
+  "time": "3:30"
+ },
+ {
+  "cancion": 8,
+  "title": "X-Ray Eyes",
+  "Writer(s)": "Simmons",
+  "Lead vocals": "Simmons",
+  "time": "3:46"
+ },
+ {
+  "cancion": 9,
+  "title": "Save Your Love",
+  "Writer(s)": "Frehley",
+  "Lead vocals": "Frehley",
+  "time": "4:41"
+ }
+]
+]
+
